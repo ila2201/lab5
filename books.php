@@ -34,4 +34,5 @@ $sxml = simplexml_load_file("books.xml");
         ?>
     </table>
 </body>
+Я РУССКИЙ
 </html>
